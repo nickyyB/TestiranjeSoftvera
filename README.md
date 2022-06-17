@@ -9,5 +9,4 @@ Domaći iz predmeta Testiranje Softvera.
 ### Korišćeni alati:
 * Selenium IDE 
 * Selenium WebDriver 
-* JUnit
-* Java
+* JUnit (Java)
