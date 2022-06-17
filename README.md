@@ -7,7 +7,7 @@ Domaći iz predmeta Testiranje Softvera.
 
 
 ### Korišćeni alati:
-* Selenium IDE <p></p>
-* Selenium WebDriver <p></p>
+* Selenium IDE 
+* Selenium WebDriver 
 * JUnit
 * Java
